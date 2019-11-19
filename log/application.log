@@ -1,0 +1,46 @@
+2019-11-19 20:46:56,526 [main] INFO AutomationTest - Website opened
+2019-11-19 20:47:02,194 [main] INFO AutomationTest - *User login successful*
+2019-11-19 20:54:14,933 [main] INFO AutomationTest - Website opened
+2019-11-19 20:54:19,208 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:15:44,497 [main] INFO AutomationTest - Website opened
+2019-11-19 21:15:50,607 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:15:57,830 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:18:04,336 [main] INFO AutomationTest - Website opened
+2019-11-19 21:18:09,481 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:18:26,066 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:23:12,186 [main] INFO AutomationTest - Website opened
+2019-11-19 21:23:16,725 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:23:22,705 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:24:40,432 [main] INFO AutomationTest - Website opened
+2019-11-19 21:24:44,583 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:24:50,516 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:27:19,578 [main] INFO AutomationTest - Website opened
+2019-11-19 21:27:24,047 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:27:32,289 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:33:02,330 [main] INFO AutomationTest - Website opened
+2019-11-19 21:33:08,139 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:33:16,710 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:34:47,430 [main] INFO AutomationTest - Website opened
+2019-11-19 21:34:51,452 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:34:57,748 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:43:33,102 [main] INFO AutomationTest - Website opened
+2019-11-19 21:43:38,306 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:43:47,299 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:49:26,925 [main] INFO AutomationTest - Website opened
+2019-11-19 21:49:31,483 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:49:37,953 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:51:10,606 [main] INFO AutomationTest - Website opened
+2019-11-19 21:51:15,487 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:51:41,336 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:54:25,565 [main] INFO AutomationTest - Website opened
+2019-11-19 21:54:33,608 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:54:42,408 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 21:56:58,996 [main] INFO AutomationTest - Website opened
+2019-11-19 21:57:03,054 [main] INFO AutomationTest - *User login successful*
+2019-11-19 21:57:15,614 [main] ERROR AutomationTest - !Failed to add product to wishlist!
+2019-11-19 22:07:01,999 [main] INFO AutomationTest - Website opened
+2019-11-19 22:07:06,353 [main] INFO AutomationTest - *User login successful*
+2019-11-19 22:07:28,507 [main] INFO AutomationTest - *Product successfully added to wishlist*
+2019-11-19 22:13:06,938 [main] INFO AutomationTest - Website opened
+2019-11-19 22:13:11,548 [main] INFO AutomationTest - *User login successful*
+2019-11-19 22:13:22,639 [main] INFO AutomationTest - *Product successfully added to wishlist*
